@@ -1,11 +1,11 @@
 /**
  * 
  */
-package com.demo.angular.repository;
+package com.farmacia.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
-import com.demo.angular.model.Produto;
+import com.farmacia.model.Produto;
 
 /**
  * @author LEANDRO

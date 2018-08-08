@@ -1,11 +1,11 @@
 /**
  * 
  */
-package com.demo.angular.service;
+package com.farmacia.service;
 
 import java.util.List;
 
-import com.demo.angular.model.Produto;
+import com.farmacia.model.Produto;
 
 /**
  * @author LEANDRO

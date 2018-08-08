@@ -1,15 +1,15 @@
 /**
  * 
  */
-package com.demo.angular.service.implemente;
+package com.farmacia.service.implemente;
 
 import java.util.List;
 
 import org.springframework.stereotype.Service;
 
-import com.demo.angular.model.Produto;
-import com.demo.angular.repository.ProdutoRepository;
-import com.demo.angular.service.ProdutoService;
+import com.farmacia.model.Produto;
+import com.farmacia.repository.ProdutoRepository;
+import com.farmacia.service.ProdutoService;
 
 /**
  * @author LEANDRO

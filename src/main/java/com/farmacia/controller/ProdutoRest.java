@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.demo.angular.controller;
+package com.farmacia.controller;
 
 import java.util.List;
 
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.demo.angular.model.Produto;
-import com.demo.angular.service.implemente.ProdutoServiceImp;
+import com.farmacia.model.Produto;
+import com.farmacia.service.implemente.ProdutoServiceImp;
 
 /**
  * @author LEANDRO

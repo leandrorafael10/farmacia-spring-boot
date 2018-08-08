@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.demo.angular.model;
+package com.farmacia.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
